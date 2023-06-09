@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "home.html");
+  $(myform).attr("action", "/home.html");
 });
